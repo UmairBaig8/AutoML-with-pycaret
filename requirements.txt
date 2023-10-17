@@ -139,7 +139,7 @@ typing_extensions==4.4.0
 tzdata==2022.5
 tzlocal==4.2
 umap-learn==0.5.3
-urllib3==1.26.12
+urllib3==1.26.18
 validators==0.20.0
 visions==0.7.5
 waitress==2.1.2
